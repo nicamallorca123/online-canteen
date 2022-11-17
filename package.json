@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicamallorca123/online-canteen/issues"
   },
-  "homepage": "https://github.com/nicamallorca123/online-canteen#readme"
+  "homepage": "https://github.com/nicamallorca123/online-canteen#readme",
+  "dependencies": {
+    "firebase": "^9.14.0"
+  }
 }
